@@ -1,0 +1,14 @@
+.row{
+    background-color:#b2c0b9;
+    padding: 20px;  
+}
+.contenedor{
+    width: auto;
+}
+.img-proyecto1{
+    box-shadow: 5px 5px 10px #336666;
+}
+.part1, .part2{
+    display: inline-block;
+    text-align: justify;
+}
