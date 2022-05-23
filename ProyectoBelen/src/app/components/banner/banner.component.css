@@ -7,9 +7,9 @@
 }
 nav{
 	display: flex;
-	align-items: right;
-	justify-content: flex-end;
-	padding-top: 45px;
+	align-items: left;
+	justify-content: center;
+	padding-top: 30px;
 	padding-left: 8%;
 	padding-right: 8%;
 }

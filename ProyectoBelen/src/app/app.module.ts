@@ -4,7 +4,6 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
-import { LogoAPComponent } from './components/logo-ap/logo-ap.component';
 import { ContactComponent } from './components/contact/contact.component';
 import { BannerComponent } from './components/banner/banner.component';
 import { AcercadeComponent } from './components/acercade/acercade.component';
@@ -17,7 +16,6 @@ import { MisproyectosComponent } from './components/misproyectos/misproyectos.co
   declarations: [
     AppComponent,
     HeaderComponent,
-    LogoAPComponent,
     ContactComponent,
     BannerComponent,
     AcercadeComponent,
