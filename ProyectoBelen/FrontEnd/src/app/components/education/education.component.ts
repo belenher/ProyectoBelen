@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { PersonaService } from 'src/app/service/persona.service';
 
 @Component({
   selector: 'app-education',
@@ -6,10 +7,12 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./education.component.css']
 })
 export class EducationComponent implements OnInit {
+  persona:any;
 
-  constructor() { }
+  constructor(private datosPersona:PersonaService) {} 
 
   ngOnInit(): void {
+    this.persona="";
+    }
   }
 
-}
