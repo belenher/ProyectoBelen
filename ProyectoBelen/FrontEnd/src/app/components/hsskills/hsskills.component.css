@@ -1,4 +1,6 @@
 .row{
-    background-color:#b2c0b9;
+    background-image: linear-gradient(to right, #BBD2C5, #536976, 
+	#292e49);
     padding: 20px;
+     
 }
