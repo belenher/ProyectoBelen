@@ -1,13 +1,13 @@
-package com.portfolio.belh;
+package com.portbel.belher;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BelhApplication {
+public class BelherApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BelhApplication.class, args);
+		SpringApplication.run(BelherApplication.class, args);
 	}
 
 }
